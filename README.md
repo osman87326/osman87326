@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kazi+Md+Osman+Goni;Full+Stack+Developer;JavaScript+|+React+|+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=750&lines=Kazi+Md+Osman+Goni;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Crafting+Scalable+Web+Apps;Open+to+Opportunities" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kazi Md OsMan Goni</h1>
