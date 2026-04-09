@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="850" alt="Kazi Md Osman Goni - Full Stack Developer" src="https://i.ibb.co/5RzJv3h/fullstack-hero.png" />
+  <img width="850" alt="Kazi Md Osman Goni - Full Stack Developer" src="YOUR_IMAGE_LINK" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Kazi+Md+Osman+Goni;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Welcome+to+My+GitHub+Profile" />
