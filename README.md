@@ -1,4 +1,6 @@
-<img width="851" height="315" alt="Kazi Md Osman Goni" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=851&lines=Kazi+Md+Osman+Goni;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js" />
+<p align="center">
+  <img width="850" alt="Kazi Md Osman Goni - Full Stack Developer" src="https://i.ibb.co/5RzJv3h/fullstack-hero.png" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Kazi+Md+Osman+Goni;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Welcome+to+My+GitHub+Profile" />
 </p>
