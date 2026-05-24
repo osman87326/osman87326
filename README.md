@@ -27,7 +27,7 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 - 💡 Always open to **collaborative projects and open-source contributions**
 
 ### 📫 Reach Me
-- 📧 **Email:** kaziosman873@gmail.com
+- 📧 **Email:** osman87326@gmail.com
 - 📍 **Location:** Bangladesh
 
 ---
@@ -39,8 +39,8 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazimdosmangoni)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kazi.osman.191808)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kazi__osman)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kaziosman873)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/kaziosman873)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/osman87326)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/osman87326)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/osman873)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kaziosman09)
 
@@ -91,15 +91,15 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaziosman873&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=osman87326&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=kaziosman873&theme=tokyonight&hide_border=false" height="170"/>
+<img src="https://streak-stats.demolab.com?user=osman87326&theme=tokyonight&hide_border=false" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziosman873&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman87326&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
 
 </div>
 
@@ -109,7 +109,7 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=kaziosman873&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=osman87326&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)
 
 </div>
 
@@ -119,7 +119,7 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 
 <div align="center">
 
-[![Osman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaziosman873&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Osman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osman87326&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,10 +127,11 @@ Currently sharpening my skills in the **MERN stack** while exploring backend sys
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kaziosman873&label=Profile%20Views&color=00F7FF&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=osman87326&label=Profile%20Views&color=00F7FF&style=for-the-badge)
 
-⭐ From [KaziOsman](https://github.com/kaziosman873) — Thanks for stopping by!
+⭐ From [KaziOsman](https://github.com/osman87326) — Thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
+
